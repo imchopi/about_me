@@ -54,4 +54,4 @@ Si deseas ejecutar el proyecto en tu máquina localmente, sigue estos pasos:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/imchopi/about_me.git
+   git clone https://github.com/imchopi/about_me
