@@ -1,4 +1,4 @@
-# Mi Portafolio Web
+# ABOUT ME
 
 Este es mi portafolio personal, creado para mostrar mi CV, experiencia, educación, publicaciones, proyectos, habilidades y más. La web está diseñada para servir como una presentación interactiva y profesional, donde los visitantes pueden conocer más sobre mi trayectoria y trabajo. 
 
