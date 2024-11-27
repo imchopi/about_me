@@ -1,9 +1,14 @@
 import './App.css'
+import Footer from './sections/Footer/Footer'
+import Header from './sections/Header/Header'
+import Home from './sections/Home/Home'
 
 function App() {
   return (
     <>
-      <h1>ABOUT ME</h1>
+      <Header/>
+      <Home/>
+      <Footer/>
     </>
   )
 }
