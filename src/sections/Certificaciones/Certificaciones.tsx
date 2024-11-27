@@ -1,0 +1,1 @@
+// <a href="https://www.flaticon.es/iconos-gratis/control-de-calidad" title="control de calidad iconos">Control de calidad iconos creados por Freepik - Flaticon</a>

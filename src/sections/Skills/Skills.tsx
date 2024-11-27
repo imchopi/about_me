@@ -1,0 +1,1 @@
+// <a href="https://www.flaticon.es/iconos-gratis/pensamiento-lateral" title="pensamiento lateral iconos">Pensamiento lateral iconos creados por Freepik - Flaticon</a>
